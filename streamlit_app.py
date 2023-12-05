@@ -1,5 +1,5 @@
 import streamlit as st
-import openai
+#import openai
 import pandas as pd
 
 # Uncomment the following lines to enable the API key input form
